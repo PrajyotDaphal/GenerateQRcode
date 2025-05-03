@@ -24,7 +24,8 @@ A simple and customizable QR code generator built using Python. Supports encodin
 
 ## 📸 Sample QR Code
 
-![QR Code](C:\Users\Prajyot\OneDrive\Pictures\LinkedIn.png)
+![QR Code](![LinkedIn](https://github.com/user-attachments/assets/06df687c-009f-4e4f-8e8d-cd7a870c1ccb)
+)
 
 ### 🔧 Installation
 
