@@ -28,3 +28,8 @@ A simple and customizable QR code generator built using Python. Supports encodin
 git clone https://github.com/your-username/qr-code-generator.git
 cd qr-code-generator
 pip install -r requirements.txt
+
+## 📸 Sample QR Code
+
+![QR Code](C:\Users\Prajyot\OneDrive\Pictures\LinkedIn.png)
+
